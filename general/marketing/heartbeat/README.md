@@ -1,4 +1,4 @@
-# CoLab Circles
+# Heartbeat Circle
 
 CoLab Circles is a map of the structure of the cooperative. Circles can have sub-Circles. Each Circle has aims, domains, and members. A template for Circles follows:
 

@@ -1,6 +1,4 @@
-# CoLab Circles
-
-CoLab Circles is a map of the structure of the cooperative. Circles can have sub-Circles. Each Circle has aims, domains, and members. A template for Circles follows:
+# Assemble Circle (Helping Circle)
 
 ## AIMS:
 (Write here about why this Circle exists. This is the reason for the Circle. All Circle members have authority within the Circle’s domain to further the AIM of this Circle.)

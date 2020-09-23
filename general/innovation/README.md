@@ -1,9 +1,7 @@
-# CoLab Circles
-
-CoLab Circles is a map of the structure of the cooperative. Circles can have sub-Circles. Each Circle has aims, domains, and members. A template for Circles follows:
+# Innovation Org Circle
 
 ## AIMS:
-(Write here about why this Circle exists. This is the reason for the Circle. All Circle members have authority within the Circle’s domain to further the AIM of this Circle.)
+Create marketable products (responsible for designing and proposing products)
 
 ## DOMAIN:
 (Write here about what authority the Circle has, exactly. This is what the Circle is responsible for. This should be defined clearly, with no overlap with other Circles, and without gaps.)
